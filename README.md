@@ -1,6 +1,8 @@
-# currency_converter
+# Simple Currency Converter App
 
 A new Flutter project.
+![imresizer-1705979585643](https://github.com/rolcodes/currency_converter_app/assets/132939427/484faa46-bf5d-4d62-bb9d-3b85dccf3385)
+
 
 ## Getting Started
 
