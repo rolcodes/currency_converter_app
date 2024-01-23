@@ -1,7 +1,7 @@
 # Simple Currency Converter App
 
 A new Flutter project.
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-23 at 10 58 31](https://github.com/rolcodes/currency_converter_app/assets/132939427/e2b02ea8-b23d-4fd4-9e10-51110dc8fa06)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-23 at 10 58 31 (1)](https://github.com/rolcodes/currency_converter_app/assets/132939427/9f6705f3-920d-40aa-bcb4-c90a90270a52)
 
 
 
